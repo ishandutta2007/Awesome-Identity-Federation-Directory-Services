@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Identity-Federation-Directory-Services/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Identity-Federation-Directory-Services?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Identity-Federation-Directory-Services/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Identity-Federation-Directory-Services?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Identity-Federation-Directory-Services/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Identity-Federation-Directory-Services?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Identity-Federation-Directory-Services/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,68 +65,68 @@ The sector exhibits **moderate fragmentation with accelerating concentration** a
 
 ## 🚀 Open-Source GitHub Projects
 
-All open-source repositories are strictly ranked below in **descending order by GitHub star count**. Each repository badge links directly to its live stargazers page.
+All open-source repositories are strictly ranked below in **descending order by GitHub Stars_Count**. Each repository badge links directly to its live stargazers page.
 
 ### 🌟 Ranked Open-Source Repositories
 
-1. **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)  
+1. **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)  
    Industry standard open-source Identity and Access Management system sponsored by Red Hat. Supports OpenID Connect (OIDC), OAuth 2.0, SAML 2.0, user federation across LDAP/AD, identity brokering, social authentication, and fine-grained authorization.
 
-2. **[Authelia](https://github.com/authelia/authelia)** [![GitHub stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
+2. **[Authelia](https://github.com/authelia/authelia)** [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
    Lightweight authentication and authorization server providing single sign-on (SSO) and multi-factor authentication (MFA: TOTP, FIDO2 WebAuthn, Duo) for applications reverse-proxied by NGINX, Traefik, Caddy, or HAProxy.
 
-3. **[authentik](https://github.com/goauthentik/authentik)** [![GitHub stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)  
+3. **[authentik](https://github.com/goauthentik/authentik)** [![GitHub_Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)  
    Modern, extensible open-source Identity Provider focused on flexibility and ease of use. Features built-in reverse proxy authentication (Forward Auth), SAML, OIDC, SCIM directory provisioning, custom flow stages, and a responsive web UI.
 
-4. **[Ory Hydra](https://github.com/ory/hydra)** [![GitHub stars](https://img.shields.io/github/stars/ory/hydra?style=social&color=white)](https://github.com/ory/hydra/stargazers)  
+4. **[Ory Hydra](https://github.com/ory/hydra)** [![GitHub_Stars](https://img.shields.io/github/stars/ory/hydra?style=social&color=white)](https://github.com/ory/hydra/stargazers)  
    High-performance, hardened OpenID Certified™ OAuth 2.0 Server and OpenID Connect Provider written in Go. Headless and designed to integrate cleanly with any existing user directory or authentication service.
 
-5. **[ZITADEL](https://github.com/zitadel/zitadel)** [![GitHub stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)  
+5. **[ZITADEL](https://github.com/zitadel/zitadel)** [![GitHub_Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)  
    Cloud-native, event-sourced IAM platform designed for multi-tenancy from day one. Features turnkey B2B organization switching, passkeys/FIDO2, OIDC/OAuth2 federation, and self-service administration.
 
-6. **[SuperTokens](https://github.com/supertokens/supertokens-core)** [![GitHub stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)  
+6. **[SuperTokens](https://github.com/supertokens/supertokens-core)** [![GitHub_Stars](https://img.shields.io/github/stars/supertokens/supertokens-core?style=social&color=white)](https://github.com/supertokens/supertokens-core/stargazers)  
    Modular open-source alternative to Auth0 and AWS Cognito. Provides robust session management, social login, passwordless auth, multi-factor authentication, and user migration utilities.
 
-7. **[Logto](https://github.com/logto-io/logto)** [![GitHub stars](https://img.shields.io/github/stars/logto-io/logto?style=social&color=white)](https://github.com/logto-io/logto/stargazers)  
+7. **[Logto](https://github.com/logto-io/logto)** [![GitHub_Stars](https://img.shields.io/github/stars/logto-io/logto?style=social&color=white)](https://github.com/logto-io/logto/stargazers)  
    Modern, developer-centric alternative to Auth0 for building identity workflows. Offers ready-to-use sign-in experience, multi-tenant B2B organization support, enterprise SSO (SAML/OIDC), and role-based access control.
 
-8. **[Casdoor](https://github.com/casdoor/casdoor)** [![GitHub stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)  
+8. **[Casdoor](https://github.com/casdoor/casdoor)** [![GitHub_Stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social&color=white)](https://github.com/casdoor/casdoor/stargazers)  
    UI-first, web-native Identity and Access Management platform supporting OAuth 2.0, OIDC, SAML, CAS, LDAP synchronization, WebAuthn, SMS/email verification, and social login across dozens of providers.
 
-9. **[Ory Kratos](https://github.com/ory/kratos)** [![GitHub stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)  
+9. **[Ory Kratos](https://github.com/ory/kratos)** [![GitHub_Stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)  
    API-first, headless identity and user management system implementing self-service registration, login, multi-factor authentication (MFA/TOTP/WebAuthn), password recovery, and profile verification.
 
-10. **[Apereo CAS](https://github.com/apereo/cas)** [![GitHub stars](https://img.shields.io/github/stars/apereo/cas?style=social&color=white)](https://github.com/apereo/cas/stargazers)  
+10. **[Apereo CAS](https://github.com/apereo/cas)** [![GitHub_Stars](https://img.shields.io/github/stars/apereo/cas?style=social&color=white)](https://github.com/apereo/cas/stargazers)  
     Enterprise multilingual Single Sign-On engine for web applications supporting CAS protocol, SAML 1.1/2.0, OpenID Connect, OAuth 2.0, RADIUS, and delegated authentication against LDAP and relational databases.
 
-11. **[Dex](https://github.com/dexidp/dex)** [![GitHub stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)  
+11. **[Dex](https://github.com/dexidp/dex)** [![GitHub_Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)  
     Federation identity provider that acts as an OpenID Connect (OIDC) bridge to plug into Kubernetes and web services. Delegates authentication to LDAP servers, SAML IdPs, GitHub, Google, and GitLab.
 
-12. **[Kanidm](https://github.com/kanidm/kanidm)** [![GitHub stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)  
+12. **[Kanidm](https://github.com/kanidm/kanidm)** [![GitHub_Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)  
     Modern, memory-safe enterprise identity management platform written in Rust. Features an integrated directory service, native RADIUS support, OAuth2/OIDC provider capabilities, and modern WebAuthn credential flows.
 
-13. **[FreeIPA](https://github.com/freeipa/freeipa)** [![GitHub stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers)  
+13. **[FreeIPA](https://github.com/freeipa/freeipa)** [![GitHub_Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers)  
     Red Hat-sponsored integrated enterprise identity management suite combining 389 Directory Server (LDAP), MIT Kerberos, Dogtag PKI certificate authority, NTP, DNS, and central HBAC policy controls for Linux/Unix networks.
 
-14. **[Samba Active Directory](https://github.com/samba-team/samba)** [![GitHub stars](https://img.shields.io/github/stars/samba-team/samba?style=social&color=white)](https://github.com/samba-team/samba/stargazers)  
+14. **[Samba Active Directory](https://github.com/samba-team/samba)** [![GitHub_Stars](https://img.shields.io/github/stars/samba-team/samba?style=social&color=white)](https://github.com/samba-team/samba/stargazers)  
     Complete open-source implementation of Microsoft Active Directory Domain Services (AD DS). Allows running full AD domain controllers on Linux with Kerberos, LDAP, and GPO support for Windows and cross-platform clients.
 
-15. **[SimpleSAMLphp](https://github.com/simplesamlphp/simplesamlphp)** [![GitHub stars](https://img.shields.io/github/stars/simplesamlphp/simplesamlphp?style=social&color=white)](https://github.com/simplesamlphp/simplesamlphp/stargazers)  
+15. **[SimpleSAMLphp](https://github.com/simplesamlphp/simplesamlphp)** [![GitHub_Stars](https://img.shields.io/github/stars/simplesamlphp/simplesamlphp?style=social&color=white)](https://github.com/simplesamlphp/simplesamlphp/stargazers)  
     Battle-tested PHP application implementing SAML 2.0 Identity Provider (IdP) and Service Provider (SP) capabilities, widely deployed in academic and research federations (e.g., eduGAIN, InCommon).
 
-16. **[OpenAM](https://github.com/OpenIdentityPlatform/OpenAM)** [![GitHub stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenAM?style=social&color=white)](https://github.com/OpenIdentityPlatform/OpenAM/stargazers)  
+16. **[OpenAM](https://github.com/OpenIdentityPlatform/OpenAM)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenAM?style=social&color=white)](https://github.com/OpenIdentityPlatform/OpenAM/stargazers)  
     Community-maintained open-source access management platform (derived from ForgeRock OpenAM / Sun OpenSSO) providing enterprise web SSO, SAML 2.0, OAuth 2.0, adaptive authentication, and fine-grained authorization.
 
-17. **[OpenDJ](https://github.com/OpenIdentityPlatform/OpenDJ)** [![GitHub stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenDJ?style=social&color=white)](https://github.com/OpenIdentityPlatform/OpenDJ/stargazers)  
+17. **[OpenDJ](https://github.com/OpenIdentityPlatform/OpenDJ)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenDJ?style=social&color=white)](https://github.com/OpenIdentityPlatform/OpenDJ/stargazers)  
     High-throughput LDAPv3 compliant directory service written in Java (continuation of ForgeRock OpenDJ / Sun OpenDS), featuring multi-master replication, access control, and REST-to-LDAP gateways.
 
-18. **[Gluu oxAuth](https://github.com/GluuFederation/oxAuth)** [![GitHub stars](https://img.shields.io/github/stars/GluuFederation/oxAuth?style=social&color=white)](https://github.com/GluuFederation/oxAuth/stargazers)  
+18. **[Gluu oxAuth](https://github.com/GluuFederation/oxAuth)** [![GitHub_Stars](https://img.shields.io/github/stars/GluuFederation/oxAuth?style=social&color=white)](https://github.com/GluuFederation/oxAuth/stargazers)  
     OpenID Certified OAuth 2.0 Authorization Server and OpenID Connect Provider implementing Client-Initiated Backchannel Authentication (CIBA), FAPI security profiles, and enterprise federation.
 
-19. **[389 Directory Server](https://github.com/389ds/389-ds-base)** [![GitHub stars](https://img.shields.io/github/stars/389ds/389-ds-base?style=social&color=white)](https://github.com/389ds/389-ds-base/stargazers)  
+19. **[389 Directory Server](https://github.com/389ds/389-ds-base)** [![GitHub_Stars](https://img.shields.io/github/stars/389ds/389-ds-base?style=social&color=white)](https://github.com/389ds/389-ds-base/stargazers)  
     Enterprise-grade, multi-master LDAP directory server for Linux (the core directory engine behind FreeIPA and Red Hat Directory Server), optimized for high write performance and complex replication topologies.
 
-20. **[SATOSA](https://github.com/IdentityPython/SATOSA)** [![GitHub stars](https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social&color=white)](https://github.com/IdentityPython/SATOSA/stargazers)  
+20. **[SATOSA](https://github.com/IdentityPython/SATOSA)** [![GitHub_Stars](https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social&color=white)](https://github.com/IdentityPython/SATOSA/stargazers)  
     Stateful multi-protocol federation proxy written in Python capable of translating seamlessly between SAML 2.0 and OpenID Connect (OIDC) identity providers and service providers.
 
 ---
