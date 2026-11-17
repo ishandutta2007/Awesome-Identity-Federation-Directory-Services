@@ -32,75 +32,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Identity and Access Management (IAM) and Identity Federation market is estimated at approximately **$25B–$30B in 2025–2026** and projected to exceed **$60B–$75B by the early 2030s**, growing at a compound annual growth rate (CAGR) of ~11–15%. The sector is **moderately fragmented yet increasingly concentrated** around hyper-scale cloud incumbents (Microsoft Entra ID, AWS IAM) and dedicated identity platforms (Okta/Auth0), while specialized enterprise players, PE-backed consolidations (e.g., Ping Identity + ForgeRock under Thoma Bravo), and a vibrant open-source ecosystem sustain healthy multi-vendor competition.
 
 
 
 ## SaaS/Hosted Platforms
 
-- **[Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)**  
-
-  Cloud-based identity and access management service (formerly Azure Active Directory) providing SSO, MFA, conditional access, and directory services for Microsoft and third-party applications.
-
-
-
-- **[Okta](https://www.okta.com/)**  
-
-  Leading independent identity platform offering workforce and customer identity, SSO, lifecycle management, and extensive application integrations.
-
-
-
-- **[PingFederate / Ping Identity](https://www.pingidentity.com/)**  
-
-  Enterprise federation and access management platform specializing in SAML, OAuth, OIDC, and hybrid identity scenarios.
-
-
-
-- **[JumpCloud](https://jumpcloud.com/)**  
-
-  Cloud directory platform that provides identity, access, and device management as a modern alternative to traditional on-premises Active Directory.
-
-
-
-- **[ForgeRock](https://www.forgerock.com/)**  
-
-  Comprehensive identity platform covering access management, identity management, directory services, and identity gateway capabilities.
-
-
-
-- **[OneLogin](https://www.onelogin.com/)**  
-
-  Cloud identity and access management solution focused on SSO, MFA, and user lifecycle management (part of One Identity / Quest).
-
-
-
-- **[AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/)**  
-
-  AWS service for managing workforce access to multiple AWS accounts and business applications through single sign-on.
-
-
-
-- **[CyberArk Identity](https://www.cyberark.com/)**  
-
-  Identity security platform that combines workforce identity, privileged access, and authentication capabilities.
-
-
-
-- **[Auth0](https://auth0.com/)**  
-
-  Developer-friendly identity platform (part of Okta) specializing in customer identity and access management (CIAM) with extensive customization options.
-
-
-
-- **[Zoho Directory / Atlassian Crowd](https://www.zoho.com/)**  
-
-  Directory and SSO solutions for workforce identity, application access, and centralized user management within their respective ecosystems.
+| Company / Platform | Company Scale (Valuation / Revenue) | Starting Paid Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)** | ~$3.1T Market Cap / ~$245B+ Rev (Parent: Microsoft) | $6.00 / user / month (Entra ID P1); $9.00 / user / month (Entra ID P2) | **Free Forever**: Up to 50,000 directory objects, SSO across unlimited cloud apps, and core MFA. Paid editions have a 30-day free trial (up to 100 licenses). | Cloud-based IAM and directory service (formerly Azure AD) providing SSO, MFA, conditional access, and directory federation for Microsoft and third-party apps. |
+| **[AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/)** | ~$2.2T Market Cap / ~$105B+ AWS Rev (Parent: Amazon) | Included at no additional cost ($0.00) | **Free Forever**: 100% free with no user or application caps for AWS accounts, built-in identity store, and SAML 2.0 federation (underlying services like managed AD incur separate standard AWS fees). | Centralized workforce identity management service for multi-account AWS environments and business cloud applications through single sign-on. |
+| **[Okta](https://www.okta.com/)** | ~$13B Market Cap / ~$2.6B+ ARR | $2.00 / user / month (Single Sign-On); $3.00 / user / month (Universal Directory) | **Free Trial Only**: 30-day free trial with full access to Workforce Identity Cloud features; developer tier offers free tenant up to 7,500 monthly active users (MAU). | Leading enterprise identity platform offering workforce and customer identity, SSO, lifecycle management, and thousands of pre-built integrations. |
+| **[Zoho Directory](https://www.zoho.com/directory/)** | ~$12.5B Estimated Valuation / ~$1.5B Rev | $2.00 / user / month ($1.70/mo billed annually - Standard Plan) | **Free Forever**: Up to 10 users, unlimited Zoho apps, up to 3 third-party cloud apps with SSO, Cloud RADIUS/LDAP for 10 users, and 7-day audit logs. 15-day free trial for paid plans. | Workforce identity, application access, and centralized directory service tailored for SMBs and enterprise Zoho ecosystems. |
+| **[CyberArk Identity](https://www.cyberark.com/)** | ~$12B Market Cap / ~$1.0B+ ARR | ~$6.00 – $7.00 / user / month (Workforce Identity Standard; annual contract with minimum user commitments) | **Free Trial Only**: 14-day to 30-day evaluation sandbox / guided Proof of Concept (PoC) tenant upon sales request. | Identity security and access management platform integrating workforce SSO, adaptive MFA, and privileged access security controls. |
+| **[OneLogin](https://www.onelogin.com/)** | ~$5.4B Valuation (Parent: Quest Software / One Identity; ~$500M+ Quest Rev) | $3.00 / user / month (Basic Plan); $6.00 / user / month (Advanced Plan) | **Free Trial Only**: 30-day free trial with full access to cloud directory, SSO, MFA, and user provisioning workflows; no credit card required. | Cloud IAM solution delivering single sign-on, MFA, directory integration, and automated user provisioning (part of One Identity / Quest). |
+| **[PingFederate / Ping Identity](https://www.pingidentity.com/)** | ~$5.1B Combined Valuation ($2.8B buyout + $2.3B ForgeRock; Parent: Thoma Bravo) | $3.00 / user / month (PingOne Workforce Essential; enterprise volume minimums apply) | **Free Trial Only**: 30-day free trial with up to 1,000 active user identities and 5 sandbox environments. | Enterprise federation and access management platform specializing in SAML, OAuth, OIDC, and complex hybrid identity architectures. |
+| **[JumpCloud](https://jumpcloud.com/)** | ~$2.6B Private Valuation / ~$200M ARR | $3.00 / user / month (Core Identity Plan); $9.00 / user / month (Platform Plan) | **Free Forever**: Up to 10 users and 10 devices with all platform features, plus 30 days of premium 24/7 support. | Cloud directory platform delivering identity, access, and cross-OS device management (Windows, Mac, Linux) as an alternative to on-premises AD. |
+| **[ForgeRock](https://www.forgerock.com/)** | ~$2.3B Acquisition Valuation (Combined into Ping Identity / Thoma Bravo) | ~$3.00 – $5.00 / user / month (Enterprise-grade pricing via unified Ping Identity platform; enterprise quote minimums apply) | **Free Trial Only**: 30-day evaluation access / sandbox tenant via unified Ping Identity evaluation platform. | Comprehensive identity platform covering access management, identity governance, directory services, and edge identity gateway capabilities. |
+| **[Auth0](https://auth0.com/)** | Acquired for $6.5B (Operating unit of Okta, Inc. - ~$13B Market Cap) | $35.00 / month (B2C Essentials Plan, includes 1,000 MAU; B2B plans start at $130.00 / month) | **Free Forever**: Up to 7,500 monthly active users (MAU), unlimited logins, up to 3 social identity providers, and basic MFA. | Developer-first identity platform specializing in Customer Identity and Access Management (CIAM), flexible token customization, and extensibility. |
 
 
 
